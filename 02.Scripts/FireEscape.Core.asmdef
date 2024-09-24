@@ -1,0 +1,25 @@
+{
+    "name": "FireEscape.Core",
+    "rootNamespace": "",
+    "references": [
+        "GUID:02650bbac8118a04f9180ab423fe60c4",
+        "GUID:4a1cb1490dc4df8409b2580d6b44e75e",
+        "GUID:b3f49edfedc855a48aa1a9e5d3cba438",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:8c4dd21966739024fbd72155091d199e",
+        "GUID:3e25014c5dc96fb48b9c9f2285c2bcff",
+        "GUID:2a230cb87a1d3ba4a98bdc0ddae76e6c",
+        "GUID:8087d854c1f812e4b9a74437dfc524e0",
+        "GUID:f64c9ebcd7899c3448a08dc9f9ddbe30",
+        "GUID:0782a792af963a64b889a34765816be4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
